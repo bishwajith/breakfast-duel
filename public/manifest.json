@@ -1,0 +1,29 @@
+{
+  "name": "Breakfast Duel",
+  "short_name": "Breakfast",
+  "description": "Nightly South Indian High-Protein Breakfast Duel & Decision Sync for Couples",
+  "theme_color": "#0F172A",
+  "background_color": "#F8FAFC",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

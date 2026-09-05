@@ -1,0 +1,702 @@
+[
+  {
+    "id": "moong-dal-pesarattu",
+    "name": "Andhra Moong Dal Pesarattu",
+    "regional_name": "Pesarattu Upma",
+    "protein_grams": 18,
+    "fiber_grams": 12,
+    "calories_approx": 290,
+    "cook_time_mins": 25,
+    "image_url": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Soak whole green moong 4-6 hours or overnight. No fermentation needed.",
+    "tags": [
+      "High Protein",
+      "Gluten-Free",
+      "Zero Fermentation"
+    ],
+    "ingredients": [
+      {
+        "item": "Whole Green Moong (Sabut)",
+        "quantity": "1 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Fresh Ginger",
+        "quantity": "1 inch piece",
+        "category": "Produce"
+      },
+      {
+        "item": "Green Chillies",
+        "quantity": "2-3 nos",
+        "category": "Produce"
+      },
+      {
+        "item": "Cumin Seeds (Jeera)",
+        "quantity": "1 tsp",
+        "category": "Spices"
+      },
+      {
+        "item": "Finely Chopped Onions",
+        "quantity": "1 medium",
+        "category": "Produce"
+      },
+      {
+        "item": "Salt",
+        "quantity": "As per taste",
+        "category": "Pantry"
+      },
+      {
+        "item": "Cold-pressed Sesame or Groundnut Oil",
+        "quantity": "1 tbsp",
+        "category": "Oils"
+      }
+    ]
+  },
+  {
+    "id": "multi-lentil-adai",
+    "name": "Multi-Lentil Adai Dosa",
+    "regional_name": "Paruppu Adai",
+    "protein_grams": 16,
+    "fiber_grams": 10,
+    "calories_approx": 310,
+    "cook_time_mins": 30,
+    "image_url": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Soak mixed lentils and brown rice for 3 hours before grinding coarse.",
+    "tags": [
+      "High Protein",
+      "High Fiber",
+      "Traditional"
+    ],
+    "ingredients": [
+      {
+        "item": "Toor Dal",
+        "quantity": "1/4 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Chana Dal",
+        "quantity": "1/4 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Urad Dal",
+        "quantity": "2 tbsp",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Brown Rice or Rolled Oats",
+        "quantity": "1/2 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Dry Red Chillies",
+        "quantity": "3 nos",
+        "category": "Spices"
+      },
+      {
+        "item": "Asafoetida (Hing)",
+        "quantity": "1/4 tsp",
+        "category": "Spices"
+      },
+      {
+        "item": "Curry Leaves",
+        "quantity": "2 sprigs",
+        "category": "Produce"
+      },
+      {
+        "item": "Salt & Oil",
+        "quantity": "As required",
+        "category": "Pantry"
+      }
+    ]
+  },
+  {
+    "id": "ragi-masala-rotti",
+    "name": "Karnataka Ragi Masala Rotti",
+    "regional_name": "Ragi Thalipeeth / Rotti",
+    "protein_grams": 9,
+    "fiber_grams": 11,
+    "calories_approx": 260,
+    "cook_time_mins": 20,
+    "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "No soaking required. Keep chopped dill leaves and onions ready.",
+    "tags": [
+      "High Fiber",
+      "Calcium Rich",
+      "Gluten-Free"
+    ],
+    "ingredients": [
+      {
+        "item": "Ragi Flour (Finger Millet)",
+        "quantity": "1.5 cups",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Onion",
+        "quantity": "1 finely chopped",
+        "category": "Produce"
+      },
+      {
+        "item": "Fresh Dill Leaves (Sabbasige Soppu)",
+        "quantity": "1/2 cup chopped",
+        "category": "Produce"
+      },
+      {
+        "item": "Grated Carrots",
+        "quantity": "1/4 cup",
+        "category": "Produce"
+      },
+      {
+        "item": "Green Chillies & Ginger",
+        "quantity": "1 tbsp minced",
+        "category": "Produce"
+      },
+      {
+        "item": "Cumin Seeds",
+        "quantity": "1 tsp",
+        "category": "Spices"
+      },
+      {
+        "item": "Warm Water & Salt",
+        "quantity": "To knead",
+        "category": "Pantry"
+      }
+    ]
+  },
+  {
+    "id": "foxtail-millet-pongal",
+    "name": "Foxtail Millet & Moong Dal Pongal",
+    "regional_name": "Navane / Thinai Ven Pongal",
+    "protein_grams": 14,
+    "fiber_grams": 9,
+    "calories_approx": 320,
+    "cook_time_mins": 25,
+    "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Rinse millet and yellow moong dal 20 minutes prior.",
+    "tags": [
+      "Low GI",
+      "Gut Friendly",
+      "High Protein"
+    ],
+    "ingredients": [
+      {
+        "item": "Foxtail Millet (Thinai / Navane)",
+        "quantity": "1/2 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Yellow Split Moong Dal",
+        "quantity": "1/2 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Crushed Black Pepper",
+        "quantity": "1 tsp",
+        "category": "Spices"
+      },
+      {
+        "item": "Cumin Seeds",
+        "quantity": "1 tsp",
+        "category": "Spices"
+      },
+      {
+        "item": "Finely Chopped Ginger",
+        "quantity": "1 tsp",
+        "category": "Produce"
+      },
+      {
+        "item": "Curry Leaves",
+        "quantity": "1 sprig",
+        "category": "Produce"
+      },
+      {
+        "item": "Ghee & Cashews",
+        "quantity": "1 tbsp ghee + 6 cashews",
+        "category": "Dairy & Nuts"
+      }
+    ]
+  },
+  {
+    "id": "sprouted-moong-upma",
+    "name": "Sprouted Moong & Vegetable Upma",
+    "regional_name": "Pesara Molakala Upma",
+    "protein_grams": 15,
+    "fiber_grams": 11,
+    "calories_approx": 280,
+    "cook_time_mins": 20,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Ensure sprouted green moong is ready in the fridge.",
+    "tags": [
+      "High Fiber",
+      "Weight Management",
+      "Rich in Antioxidants"
+    ],
+    "ingredients": [
+      {
+        "item": "Sprouted Whole Green Moong",
+        "quantity": "1.5 cups",
+        "category": "Produce"
+      },
+      {
+        "item": "Roasted Semolina or Broken Wheat",
+        "quantity": "1/2 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Mixed Veggies (Carrots, Beans, Peas)",
+        "quantity": "1/2 cup diced",
+        "category": "Produce"
+      },
+      {
+        "item": "Mustard Seeds & Urad Dal",
+        "quantity": "1 tsp",
+        "category": "Spices"
+      },
+      {
+        "item": "Green Chillies & Ginger",
+        "quantity": "1 tbsp chopped",
+        "category": "Produce"
+      },
+      {
+        "item": "Fresh Lemon Juice",
+        "quantity": "1 tbsp",
+        "category": "Produce"
+      }
+    ]
+  },
+  {
+    "id": "chana-dal-nuchinunde",
+    "name": "Chana Dal & Dill Leaves Steamed Dumplings",
+    "regional_name": "Nuchinunde",
+    "protein_grams": 17,
+    "fiber_grams": 10,
+    "calories_approx": 270,
+    "cook_time_mins": 30,
+    "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Soak chana dal and toor dal for 2 hours before grinding coarse and steaming.",
+    "tags": [
+      "100% Steamed",
+      "Zero Oil Option",
+      "High Protein"
+    ],
+    "ingredients": [
+      {
+        "item": "Chana Dal",
+        "quantity": "3/4 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Toor Dal",
+        "quantity": "1/4 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Fresh Dill Leaves (Sabbasige)",
+        "quantity": "1/2 cup chopped",
+        "category": "Produce"
+      },
+      {
+        "item": "Fresh Grated Coconut",
+        "quantity": "2 tbsp",
+        "category": "Produce"
+      },
+      {
+        "item": "Ginger & Green Chillies",
+        "quantity": "1 tbsp minced",
+        "category": "Produce"
+      },
+      {
+        "item": "Hing & Salt",
+        "quantity": "To taste",
+        "category": "Spices"
+      }
+    ]
+  },
+  {
+    "id": "oats-flaxseed-idli",
+    "name": "Oats, Flaxseed & Vegetable Steamed Idli",
+    "regional_name": "Oats Idli",
+    "protein_grams": 12,
+    "fiber_grams": 8,
+    "calories_approx": 230,
+    "cook_time_mins": 20,
+    "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Instant recipe using sour curd and roasted powdered oats.",
+    "tags": [
+      "Heart Healthy",
+      "Steamed",
+      "Quick Prep"
+    ],
+    "ingredients": [
+      {
+        "item": "Rolled Oats (Dry roasted & powdered)",
+        "quantity": "1 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Sour Curd / Dahi",
+        "quantity": "1/2 cup",
+        "category": "Dairy & Nuts"
+      },
+      {
+        "item": "Grated Carrots & Green Peas",
+        "quantity": "1/2 cup",
+        "category": "Produce"
+      },
+      {
+        "item": "Ground Flaxseed Meal",
+        "quantity": "1 tbsp",
+        "category": "Pantry"
+      },
+      {
+        "item": "Fruit Salt (Eno) or Baking Soda",
+        "quantity": "1/2 tsp",
+        "category": "Pantry"
+      },
+      {
+        "item": "Mustard & Cashew Tempering",
+        "quantity": "1 tsp ghee",
+        "category": "Spices"
+      }
+    ]
+  },
+  {
+    "id": "kala-chana-sundal-idli",
+    "name": "Black Chickpea (Kala Chana) Sundal + Brown Rice Idli",
+    "regional_name": "Kala Chana Usli & Idli",
+    "protein_grams": 19,
+    "fiber_grams": 13,
+    "calories_approx": 330,
+    "cook_time_mins": 25,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Kala chana must be soaked overnight and pressure cooked with salt.",
+    "tags": [
+      "High Protein Champion",
+      "Complex Carbs",
+      "Satiety Booster"
+    ],
+    "ingredients": [
+      {
+        "item": "Boiled Desi Kala Chana",
+        "quantity": "1.5 cups",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Brown Rice Idlis",
+        "quantity": "2 nos (cooked)",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Fresh Grated Coconut",
+        "quantity": "2 tbsp",
+        "category": "Produce"
+      },
+      {
+        "item": "Mustard, Urad Dal & Curry Leaves",
+        "quantity": "1 tsp tempering",
+        "category": "Spices"
+      },
+      {
+        "item": "Dry Red Chillies & Hing",
+        "quantity": "1/4 tsp",
+        "category": "Spices"
+      }
+    ]
+  },
+  {
+    "id": "paneer-stuffed-rava-dosa",
+    "name": "Paneer & Green Pea Stuffed Crispy Dosa",
+    "regional_name": "Paneer Rava Masala Dosa",
+    "protein_grams": 17,
+    "fiber_grams": 6,
+    "calories_approx": 340,
+    "cook_time_mins": 25,
+    "image_url": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Crumble 100g fresh paneer with boiled green peas for the stuffing.",
+    "tags": [
+      "High Protein",
+      "Kid Friendly",
+      "Crispy"
+    ],
+    "ingredients": [
+      {
+        "item": "Semolina / Rava",
+        "quantity": "1/2 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Rice Flour",
+        "quantity": "1/4 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Fresh Paneer (Crumbled)",
+        "quantity": "100g",
+        "category": "Dairy & Nuts"
+      },
+      {
+        "item": "Boiled Green Peas",
+        "quantity": "1/4 cup",
+        "category": "Produce"
+      },
+      {
+        "item": "Jeera, Green Chillies & Coriander",
+        "quantity": "1 tbsp",
+        "category": "Produce"
+      }
+    ]
+  },
+  {
+    "id": "barnyard-millet-kitchari",
+    "name": "Barnyard Millet (Kuthiraivali) Vegetable Kitchari",
+    "regional_name": "Millet Moong Khichdi",
+    "protein_grams": 13,
+    "fiber_grams": 10,
+    "calories_approx": 290,
+    "cook_time_mins": 25,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "One-pot pressure cooker recipe with split yellow moong.",
+    "tags": [
+      "Easy Digestion",
+      "Low GI",
+      "One-Pot Meal"
+    ],
+    "ingredients": [
+      {
+        "item": "Barnyard Millet (Kuthiraivali / Oodalu)",
+        "quantity": "1/2 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Yellow Split Moong Dal",
+        "quantity": "1/2 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Diced Carrots, French Beans & Peas",
+        "quantity": "1 cup",
+        "category": "Produce"
+      },
+      {
+        "item": "Turmeric Powder & Garam Masala",
+        "quantity": "1/2 tsp each",
+        "category": "Spices"
+      },
+      {
+        "item": "Pure Desi Ghee",
+        "quantity": "1 tsp",
+        "category": "Dairy & Nuts"
+      }
+    ]
+  },
+  {
+    "id": "soya-keema-uttapam",
+    "name": "High-Protein Soya Keema & Veg Uttapam",
+    "regional_name": "Soya Uttapam",
+    "protein_grams": 21,
+    "fiber_grams": 8,
+    "calories_approx": 310,
+    "cook_time_mins": 25,
+    "image_url": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Rehydrate soya granules in warm salted water for 10 mins and squeeze completely dry.",
+    "tags": [
+      "Highest Protein",
+      "Power Breakfast",
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "item": "Regular Dosa/Idli Batter",
+        "quantity": "1.5 ladles",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Soya Granules / Minced Meal Maker",
+        "quantity": "1/2 cup (rehydrated)",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Finely Chopped Onions & Tomatoes",
+        "quantity": "1/2 cup",
+        "category": "Produce"
+      },
+      {
+        "item": "Curry Leaves & Green Chillies",
+        "quantity": "1 tbsp",
+        "category": "Produce"
+      },
+      {
+        "item": "Red Chilli Powder & Garam Masala",
+        "quantity": "1/2 tsp",
+        "category": "Spices"
+      }
+    ]
+  },
+  {
+    "id": "methi-dal-thepla",
+    "name": "Methi & Besan Spiced Thepla with Greek Curd",
+    "regional_name": "Menthe Soppina Chapati / Thepla",
+    "protein_grams": 11,
+    "fiber_grams": 9,
+    "calories_approx": 270,
+    "cook_time_mins": 20,
+    "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Wash and finely chop fresh fenugreek leaves; drain excess water.",
+    "tags": [
+      "Blood Sugar Control",
+      "High Fiber",
+      "Travel Friendly"
+    ],
+    "ingredients": [
+      {
+        "item": "Whole Wheat Flour (Atta)",
+        "quantity": "1 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Besan (Bengal Gram Flour)",
+        "quantity": "1/4 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Fresh Methi Leaves (Fenugreek)",
+        "quantity": "1 cup packed",
+        "category": "Produce"
+      },
+      {
+        "item": "Ajwain (Carom Seeds) & Turmeric",
+        "quantity": "1/2 tsp each",
+        "category": "Spices"
+      },
+      {
+        "item": "Thick Curd / Greek Yogurt (for serving)",
+        "quantity": "1/2 cup",
+        "category": "Dairy & Nuts"
+      }
+    ]
+  },
+  {
+    "id": "sprouted-chana-curry-neer-dosa",
+    "name": "Sprouted Desi Chana Gassi with Neer Dosa",
+    "regional_name": "Kadle Kalu Gassi",
+    "protein_grams": 15,
+    "fiber_grams": 11,
+    "calories_approx": 330,
+    "cook_time_mins": 35,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Keep sprouted desi chana ready. Neer dosa requires soaked raw rice batter.",
+    "tags": [
+      "Coastal Karnataka",
+      "Fiber Dense",
+      "Rich Flavour"
+    ],
+    "ingredients": [
+      {
+        "item": "Sprouted Desi Brown Chana",
+        "quantity": "1 cup",
+        "category": "Produce"
+      },
+      {
+        "item": "Roasted Coconut, Coriander & Byadgi Chilli Paste",
+        "quantity": "3 tbsp",
+        "category": "Pantry"
+      },
+      {
+        "item": "Neer Dosa Batter",
+        "quantity": "2 cups (makes 4 thin dosas)",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Mustard & Curry Leaves Tempering",
+        "quantity": "1 tsp",
+        "category": "Spices"
+      }
+    ]
+  },
+  {
+    "id": "jowar-vegetable-upma",
+    "name": "Jowar (Sorghum) Coarse Vegetable Upma",
+    "regional_name": "Jola Upma / Sorghum Rava Upma",
+    "protein_grams": 10,
+    "fiber_grams": 12,
+    "calories_approx": 260,
+    "cook_time_mins": 25,
+    "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Use coarse jowar rava (sorghum grits). Requires slightly more water than regular rava.",
+    "tags": [
+      "Gluten-Free",
+      "Rich in Prebiotics",
+      "High Fiber"
+    ],
+    "ingredients": [
+      {
+        "item": "Coarse Jowar Rava (Sorghum Grits)",
+        "quantity": "1 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Diced Green Beans, Carrots & Peas",
+        "quantity": "1/2 cup",
+        "category": "Produce"
+      },
+      {
+        "item": "Roasted Groundnuts (Peanuts)",
+        "quantity": "2 tbsp",
+        "category": "Dairy & Nuts"
+      },
+      {
+        "item": "Ginger, Green Chillies & Mustard",
+        "quantity": "1 tbsp",
+        "category": "Produce"
+      },
+      {
+        "item": "Cold-pressed Groundnut Oil",
+        "quantity": "1 tbsp",
+        "category": "Oils"
+      }
+    ]
+  },
+  {
+    "id": "green-gram-steamed-idli",
+    "name": "Steamed Split Moong Idli with Flaxseed Podi",
+    "regional_name": "Hesaru Bele Idli",
+    "protein_grams": 16,
+    "fiber_grams": 9,
+    "calories_approx": 250,
+    "cook_time_mins": 25,
+    "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+    "prep_heads_up": "Soak split green moong dal for 3 hours. Grind with ginger and yogurt, then steam immediately.",
+    "tags": [
+      "Light on Stomach",
+      "Steamed",
+      "High Protein"
+    ],
+    "ingredients": [
+      {
+        "item": "Split Yellow/Green Moong Dal",
+        "quantity": "1 cup",
+        "category": "Lentils & Grains"
+      },
+      {
+        "item": "Fresh Thick Curd",
+        "quantity": "2 tbsp",
+        "category": "Dairy & Nuts"
+      },
+      {
+        "item": "Grated Ginger & Slit Green Chillies",
+        "quantity": "1 tbsp",
+        "category": "Produce"
+      },
+      {
+        "item": "Flaxseed Chutney Powder (Agasi Pudi)",
+        "quantity": "1 tbsp (serving)",
+        "category": "Pantry"
+      },
+      {
+        "item": "Eno or Fruit Salt",
+        "quantity": "1/2 tsp",
+        "category": "Pantry"
+      }
+    ]
+  }
+]
