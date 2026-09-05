@@ -14,8 +14,8 @@ export const BottomNav: React.FC<BottomNavProps> = ({
   isLocked
 }) => {
   return (
-    <nav className="fixed bottom-0 inset-x-0 z-50 pb-safe bg-surface border-t border-outline-variant/40 shadow-md">
-      <div className="flex justify-around items-center h-16 max-w-[428px] mx-auto px-2">
+    <nav className="fixed bottom-0 inset-x-0 z-50 pb-safe bg-white border-t border-slate-200 shadow-[0_-4px_20px_rgba(0,0,0,0.08)]">
+      <div className="flex justify-around items-center h-16 max-w-[428px] mx-auto px-2 bg-white">
         {/* 1. Duel Tab */}
         <button
           type="button"

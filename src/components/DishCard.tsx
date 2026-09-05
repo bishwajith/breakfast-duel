@@ -55,34 +55,34 @@ export const DishCard: React.FC<DishCardProps> = ({
         {/* Top Badges */}
         <div className="absolute top-2.5 left-2.5 right-2.5 flex items-center justify-between gap-2">
           {isConsensus ? (
-            <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-secondary text-on-secondary text-label-md font-label-md font-bold shadow-sm">
-              <span className="material-symbols-outlined text-[14px]" style={{ fontVariationSettings: "'FILL' 1" }}>
+            <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-emerald-700 text-white text-xs font-bold shadow-md border border-white/20">
+              <span className="material-symbols-outlined text-[14px] text-white" style={{ fontVariationSettings: "'FILL' 1" }}>
                 hotel_class
               </span>
-              <span>Household Pick (2 Votes)</span>
+              <span className="text-white">Household Pick (2 Votes)</span>
             </div>
           ) : dish.regional_name ? (
-            <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-white text-primary text-label-md font-label-md font-bold shadow-sm border border-outline-variant/30">
-              <span>{dish.regional_name}</span>
+            <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-black/80 text-white text-xs font-bold shadow-md border border-white/20">
+              <span className="text-white drop-shadow-sm">{dish.regional_name}</span>
             </div>
           ) : <span />}
 
           {/* Prep Time Badge */}
-          <div className="flex items-center gap-1 px-2 py-1 rounded-full bg-white text-on-surface text-label-md font-label-md font-bold shadow-sm border border-outline-variant/30 shrink-0">
-            <span className="material-symbols-outlined text-[14px] text-primary">timer</span>
-            <span>{dish.cook_time_mins} mins prep</span>
+          <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-black/80 text-white text-xs font-bold shadow-md border border-white/20 shrink-0">
+            <span className="material-symbols-outlined text-[14px] text-amber-400">timer</span>
+            <span className="text-white drop-shadow-sm">{dish.cook_time_mins} mins prep</span>
           </div>
         </div>
 
         {/* Macro badges inside hero bottom */}
         <div className="absolute bottom-2.5 left-2.5 flex items-center gap-1.5">
-          <span className="px-2 py-0.5 rounded-md bg-secondary-container text-on-secondary-container font-label-md text-label-md font-bold flex items-center gap-1">
-            <span className="material-symbols-outlined text-[13px]">eco</span>
-            {dish.protein_grams}g Protein
+          <span className="px-2.5 py-1 rounded-lg bg-emerald-700 text-white font-bold text-xs flex items-center gap-1 shadow-md border border-white/20">
+            <span className="material-symbols-outlined text-[13px] text-white">eco</span>
+            <span className="text-white font-extrabold">{dish.protein_grams}g Protein</span>
           </span>
-          <span className="px-2 py-0.5 rounded-md bg-tertiary-fixed text-on-tertiary-fixed font-label-md text-label-md font-bold flex items-center gap-1">
-            <span className="material-symbols-outlined text-[13px]">grain</span>
-            {dish.fiber_grams}g Fiber
+          <span className="px-2.5 py-1 rounded-lg bg-orange-700 text-white font-bold text-xs flex items-center gap-1 shadow-md border border-white/20">
+            <span className="material-symbols-outlined text-[13px] text-white">grain</span>
+            <span className="text-white font-extrabold">{dish.fiber_grams}g Fiber</span>
           </span>
         </div>
       </div>

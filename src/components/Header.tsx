@@ -60,7 +60,7 @@ export const Header: React.FC<HeaderProps> = ({
   }, [currentView]);
 
   return (
-    <header className="fixed top-0 inset-x-0 z-50 pt-safe bg-surface border-b border-outline-variant/40 shadow-sm">
+    <header className="fixed top-0 inset-x-0 z-50 pt-safe bg-white border-b border-slate-200 shadow-sm">
       <div className="h-16 px-4 flex items-center justify-between max-w-[428px] mx-auto w-full gap-2">
         {/* Left: Logo & Profile Switcher */}
         <div className="flex items-center gap-2 shrink-0">

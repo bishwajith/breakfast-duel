@@ -108,18 +108,18 @@ export const LockedDishView: React.FC<LockedDishViewProps> = ({
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/25 to-transparent" />
 
           {/* Overlays */}
-          <div className="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-full bg-white shadow-sm border border-outline-variant/30">
-            <span className="material-symbols-outlined text-[15px] text-primary" style={{ fontVariationSettings: "'FILL' 1" }}>
+          <div className="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-full bg-black/80 text-white text-xs font-bold shadow-md border border-white/20">
+            <span className="material-symbols-outlined text-[15px] text-amber-400" style={{ fontVariationSettings: "'FILL' 1" }}>
               workspace_premium
             </span>
-            <span className="font-label-md text-label-md text-on-surface uppercase tracking-wider font-bold">
+            <span className="text-white uppercase tracking-wider font-extrabold drop-shadow-sm">
               Tomorrow&apos;s Champion
             </span>
           </div>
 
-          <div className="absolute top-3 right-3 flex items-center gap-1 px-2.5 py-1 rounded-full bg-secondary-container text-on-secondary-container text-label-md font-label-md font-bold shadow-sm border border-secondary/20">
-            <span className="material-symbols-outlined text-[14px]">bolt</span>
-            <span>High Protein</span>
+          <div className="absolute top-3 right-3 flex items-center gap-1 px-2.5 py-1 rounded-full bg-emerald-700 text-white text-xs font-bold shadow-md border border-white/20">
+            <span className="material-symbols-outlined text-[14px] text-white">bolt</span>
+            <span className="text-white font-extrabold">High Protein</span>
           </div>
 
           <div className="absolute bottom-3 left-3 right-3 text-white flex flex-col">

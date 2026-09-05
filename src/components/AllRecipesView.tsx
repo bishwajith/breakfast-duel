@@ -155,27 +155,27 @@ export const AllRecipesView: React.FC<AllRecipesViewProps> = ({
                   {/* Regional name badge */}
                   {dish.regional_name && (
                     <div className="absolute top-2.5 left-2.5">
-                      <span className="px-2.5 py-1 rounded-full text-label-md font-bold bg-white text-primary shadow-sm border border-outline-variant/30">
+                      <span className="px-2.5 py-1 rounded-full text-xs font-bold bg-black/80 text-white shadow-md border border-white/20">
                         {dish.regional_name}
                       </span>
                     </div>
                   )}
 
                   {/* Cook time */}
-                  <div className="absolute top-2.5 right-2.5 flex items-center gap-1 px-2.5 py-1 rounded-full bg-white text-on-surface text-label-md font-bold shadow-sm border border-outline-variant/30">
-                    <span className="material-symbols-outlined text-[14px] text-primary">schedule</span>
+                  <div className="absolute top-2.5 right-2.5 flex items-center gap-1 px-2.5 py-1 rounded-full bg-black/80 text-white text-xs font-bold shadow-md border border-white/20">
+                    <span className="material-symbols-outlined text-[14px] text-amber-400">schedule</span>
                     <span>{dish.cook_time_mins} mins</span>
                   </div>
 
                   {/* Macros on image bottom */}
                   <div className="absolute bottom-2.5 left-2.5 flex items-center gap-1.5">
-                    <span className="px-2 py-0.5 rounded-md bg-secondary-container text-on-secondary-container font-label-md text-label-md font-bold flex items-center gap-1">
-                      <span className="material-symbols-outlined text-[13px]">eco</span>
-                      {dish.protein_grams}g Protein
+                    <span className="px-2.5 py-1 rounded-lg bg-emerald-700 text-white font-bold text-xs flex items-center gap-1 shadow-md border border-white/20">
+                      <span className="material-symbols-outlined text-[13px] text-white">eco</span>
+                      <span className="text-white font-extrabold">{dish.protein_grams}g Protein</span>
                     </span>
-                    <span className="px-2 py-0.5 rounded-md bg-tertiary-fixed text-on-tertiary-fixed font-label-md text-label-md font-bold flex items-center gap-1">
-                      <span className="material-symbols-outlined text-[13px]">grain</span>
-                      {dish.fiber_grams}g Fiber
+                    <span className="px-2.5 py-1 rounded-lg bg-orange-700 text-white font-bold text-xs flex items-center gap-1 shadow-md border border-white/20">
+                      <span className="material-symbols-outlined text-[13px] text-white">grain</span>
+                      <span className="text-white font-extrabold">{dish.fiber_grams}g Fiber</span>
                     </span>
                   </div>
                 </div>
